@@ -68,7 +68,7 @@ function App() {
     <>
       <nav className="navbar">
         <div className="logo" onClick={() => setPage("home")}>
-          <img src="/jobtrack-logo.svg" alt="JobTrack" />
+          <img src="/Onlinejobapplicationtracker_Fedproject/jobtrack-logo.svg" alt="JobTrack" />
         </div>
 
         <div className="nav-links">
@@ -282,7 +282,7 @@ function Signup({ setPage, setCurrentUser }) {
         <div className="auth-header">
           <img
             className="auth-logo"
-            src="/jobtrack-logo.svg"
+            src="/Onlinejobapplicationtracker_Fedproject/jobtrack-logo.svg"
             alt="JobTrack"
           />
 
@@ -373,7 +373,7 @@ function Login({ setPage, setCurrentUser }) {
         <div className="auth-header">
           <img
             className="auth-logo"
-            src="/jobtrack-logo.svg"
+          src="/Onlinejobapplicationtracker_Fedproject/jobtrack-logo.svg"
             alt="JobTrack"
           />
 
@@ -740,7 +740,7 @@ function AdminLogin({
         <div className="auth-header">
           <img
             className="auth-logo"
-            src="/jobtrack-logo.svg"
+            src="/Onlinejobapplicationtracker_Fedproject/jobtrack-logo.svg"
             alt="JobTrack"
           />
 
